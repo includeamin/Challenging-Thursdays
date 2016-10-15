@@ -1,5 +1,5 @@
-# Challenging-Thursdays
-Challenging Thursdays with UI
+# Challenging Thursdays
+
 ## you can submit your code in Challenging Thursdays from windows by CT V0.2
 
 ### features :
